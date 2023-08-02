@@ -1,0 +1,4 @@
+#ignore direcotries data, papers and unet
+data/
+papers/
+unet/
